@@ -1,0 +1,10 @@
+div {
+    background-color: red;
+    color: white;
+    height: 42px;
+    width: auto;
+    text-align: center;
+    font-size: 34px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
